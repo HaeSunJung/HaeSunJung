@@ -15,7 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaeSunJung&layout=compact&theme=merko)
     
 #  Baekjoon Coding Study
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jestiriel)](https://solved.ac/cocoon)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jestiriel)](https://solved.ac/jestiriel)  
   
   
 </div>
